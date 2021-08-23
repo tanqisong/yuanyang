@@ -8,5 +8,5 @@ package com.tqs;
  */
 public class Person {
     private int age;
-	private int name;
+	private int hitgh;
 }
